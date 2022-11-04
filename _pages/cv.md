@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+![alt text](/files/paper1.pdf)
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
