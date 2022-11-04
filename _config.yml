@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenhao Li, Jarrett"
+title                    : "Zhenhao Li"
 title_separator          : "-"
 name                     : &name "Zhenhao Li"
 description              : &description "personal description"
